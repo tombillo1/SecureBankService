@@ -1,6 +1,4 @@
-# SecureBank Fraud Prediction System
-
-This project is a Flask-based web API that receives transaction data and classifies each transaction as either fraudulent or legitimate using simple rule-based logic. The system is containerized using Docker for easy deployment and interaction.
+# Secure Bank Project
 
 ---
 
