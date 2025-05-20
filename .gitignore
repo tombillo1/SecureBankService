@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+data_sources/
+securebank/data_sources/
+*.csv
+*.json
+*.parquet
